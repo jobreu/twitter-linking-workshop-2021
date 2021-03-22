@@ -3,4 +3,3 @@
 *.Rproj
 .Rproj.user/
 __pycache__
-config_twitter.py
