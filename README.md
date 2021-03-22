@@ -7,7 +7,7 @@ This will open a on a [Jupyter Lab environment](https://jupyterlab.readthedocs.i
 
 *Note:* If you are interested in how this works: The tools behind this are [*GESIS Notebooks*](https://notebooks.gesis.org/) and [*Binder*](https://mybinder.org/).
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jobreu/twitter-linking-workshop-2021/master?urlpath=lab)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jobreu/twitter-linking-workshop-2021/main?urlpath=lab)
 
 If you have not worked with *Jupyter Notebooks* before, you can check out how to use them by opening the `jupyter_intro.ipynb` file in the *Jupyter Lab environment* that will open in your browser. Otherwise, you can launch one of the other notebooks (i.e, open one of the `.ipynb` files by double-clicking it in the explorer view on the left-hand side) to try out the `R` packages [`rtweet`](http://rtweet.info/) and [`vosonSML`](https://github.com/vosonlab/vosonSML), the [`tweepy`](https://www.tweepy.org/) library for `Python` as well as custom `R` and `Python` functions for retrieving data from the [Twitter API v2](https://developer.twitter.com/en/docs/twitter-api/early-access).
 
