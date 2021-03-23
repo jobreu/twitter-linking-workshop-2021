@@ -1,6 +1,6 @@
 # Jupyter notebooks for testing some Twitter data collection tools
 
-This repository contains a set of interactive [*Jupyter Notebooks*](https://jupyter.org/) that allow you to try out some of data collection tools for Twitter without the need to install anything on your own computer.
+This repository contains a set of interactive [*Jupyter Notebooks*](https://jupyter.org/) that allow you to try out some data collection tools for Twitter without the need to install anything on your own computer.
 
 **To access the notebooks simply click the "Launch Binder" button below.** 
 This will open a [Jupyter Lab environment](https://jupyterlab.readthedocs.io/en/stable/) in your browser (**NB**: This might take a moment to load).
