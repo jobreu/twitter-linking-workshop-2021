@@ -2,3 +2,4 @@ install.packages("rtweet", repos = "https://cloud.r-project.org/", dependencies=
 install.packages("devtools", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("magrittr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
 install.packages("dplyr", repos = "https://cloud.r-project.org/", dependencies=TRUE)
+install.packages("vosonSML", repos = "https://cloud.r-project.org/", dependencies=TRUE)
